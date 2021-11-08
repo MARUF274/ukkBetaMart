@@ -1,0 +1,17 @@
+E:\Skill\OOP\KK3market\KK3market\bin\Release\KK3market.exe.config
+E:\Skill\OOP\KK3market\KK3market\bin\Release\KK3market.exe
+E:\Skill\OOP\KK3market\KK3market\bin\Release\KK3market.pdb
+E:\Skill\OOP\KK3market\KK3market\bin\Release\BCrypt.Net.dll
+E:\Skill\OOP\KK3market\KK3market\bin\Release\BCrypt.Net.xml
+E:\Skill\OOP\KK3market\KK3market\obj\Release\KK3market.csprojAssemblyReference.cache
+E:\Skill\OOP\KK3market\KK3market\obj\Release\KK3market.mainForm.resources
+E:\Skill\OOP\KK3market\KK3market\obj\Release\KK3market.loginForm.resources
+E:\Skill\OOP\KK3market\KK3market\obj\Release\KK3market.regForm.resources
+E:\Skill\OOP\KK3market\KK3market\obj\Release\KK3market.Properties.Resources.resources
+E:\Skill\OOP\KK3market\KK3market\obj\Release\KK3market.csproj.GenerateResource.cache
+E:\Skill\OOP\KK3market\KK3market\obj\Release\KK3market.csproj.CoreCompileInputs.cache
+E:\Skill\OOP\KK3market\KK3market\obj\Release\KK3market.csproj.CopyComplete
+E:\Skill\OOP\KK3market\KK3market\obj\Release\KK3market.exe
+E:\Skill\OOP\KK3market\KK3market\obj\Release\KK3market.pdb
+E:\Skill\OOP\KK3market\KK3market\bin\Release\System.Data.OleDb.dll
+E:\Skill\OOP\KK3market\KK3market\bin\Release\System.Data.OleDb.xml
